@@ -1,1 +1,2 @@
-# Titanic_Prediction
+A kaggle contest on titanic dataset.
+Developed a Machine learning model that predicts whether the person survive the titanic incident or not(1 or 0). The training data had the details of people who survived and didnt survive the Titanic incident. The Data analysis part shows that many features helps us in predicting the likehood of a person's survival rate and using all those features I developed a classification model. Used GridsearchCV to tune the hyperparameters of my model. 
